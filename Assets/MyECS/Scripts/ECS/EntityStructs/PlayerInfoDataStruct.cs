@@ -1,10 +1,21 @@
 ﻿using Svelto.ECS;
 
-namespace MyECS.Scripts.ECS.EntityStructs
-{
-    public class PlayerInfoDataStruct: IEntityStruct
+namespace ProjectR.ECS.Player
+{   
+    public struct PlayerInfoDataStruct : IEntityStruct
     {
-        public string playerName { get; set; }
+        public int playerName;
+        public Profile playerInfo;
         public EGID ID { get; set; }
     }
+    public struct Profile
+    {
+        public string playerName;
+
+        public Profile(string playerName)
+        {            
+            this.playerName = playerName;
+        }
+    }
+    
 }

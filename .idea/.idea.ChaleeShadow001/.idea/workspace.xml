@@ -4,7 +4,30 @@
     <bookmark url="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/ClientPlayerSpawnerEngine.cs" line="48" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03422ce9-42af-441f-a7b6-cbd008f9b15f" name="Default" comment="" />
+    <list default="true" id="03422ce9-42af-441f-a7b6-cbd008f9b15f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChaleeShadow001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChaleeShadow001/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyECS/Scripts/ClientFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyECS/Scripts/ClientFactory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/ClientPlayerSpawnerEngine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/ClientPlayerSpawnerEngine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerAnimationEngine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerAnimationEngine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityDescriptors/PhotonNetDescriptorHolder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityDescriptors/PhotonNetDescriptorHolder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityDescriptors/PlayerEntityDescriptor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityDescriptors/PlayerEntityDescriptor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/NetworkDataStruct.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/NetworkDataStruct.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/PlayerInfoDataStruct.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/PlayerInfoDataStruct.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PlayerEntityViews/PlayerViews.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PlayerEntityViews/PlayerViews.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Implementers/PlayerImplementors/PlayerMovementImplementor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Implementers/PlayerImplementors/PlayerMovementImplementor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/ClientMisaki.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/ClientMisaki.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaleeShadow001.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ChaleeShadow001.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/1_Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/1_Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/1_Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/bin/1_Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/1_Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/bin/1_Data/globalgamemanagers.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/1_Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/bin/1_Data/level0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/1_Data/level1" beforeDir="false" afterPath="$PROJECT_DIR$/bin/1_Data/level1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/1_Data/resources.assets" beforeDir="false" afterPath="$PROJECT_DIR$/bin/1_Data/resources.assets" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,90 +37,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PlayerInputEngine.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerInputEngine.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="16" column="103" selection-start-line="16" selection-start-column="103" selection-end-line="16" selection-end-column="103" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlayerMovementEngine.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerMovementEngine.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="93" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LabEngine.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/LabEngine.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ITaskRoutine.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Plugins/Svelto.Tasks/Svelto.Tasks/ITaskRoutine.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClientPlayerSpawnerEngine.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClientPlayerSpawnerEngine.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/ClientPlayerSpawnerEngine.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="64" column="47" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
+            <state>
+              <caret line="53" column="75" selection-start-line="53" selection-start-column="75" selection-end-line="53" selection-end-column="75" />
               <folding>
-                <marker date="1530827236023" expanded="false" signature="6:207" ph="..." />
-                <marker date="1530827236023" expanded="true" signature="238:3728" ph="{...}" />
-                <marker date="1530827236023" expanded="true" signature="322:3726" ph="{...}" />
-                <marker date="1530827236023" expanded="true" signature="828:1019" ph="{...}" />
-                <marker date="1530827236023" expanded="true" signature="1047:1103" ph="{...}" />
-                <marker date="1530827236023" expanded="true" signature="1141:3151" ph="{...}" />
-                <marker date="1530827236023" expanded="true" signature="1176:3141" ph="{...}" />
-                <marker date="1530827236023" expanded="true" signature="1675:3092" ph="{...}" />
-                <marker date="1530827236023" expanded="true" signature="1895:3070" ph="{...}" />
-                <marker date="1530827236023" expanded="true" signature="1950:2668" ph="/* for (int j = num ; j != netEntityViews[i].netComponent.countPlayer  ; ++j) ... */" />
-                <marker date="1530827236023" expanded="true" signature="2768:3044" ph="{...}" />
-                <marker date="1530827236023" expanded="true" signature="3241:3562" ph="{...}" />
-                <marker date="1530827236023" expanded="true" signature="3627:3720" ph="{...}" />
-                <marker date="1530827236023" expanded="true" signature="3638:3710" ph="/* num = PhotonNetwork.room.playerCount; ... */" />
+                <marker date="1530864603188" expanded="false" signature="6:207" ph="..." />
+                <marker date="1530864603188" expanded="true" signature="238:3620" ph="{...}" />
+                <marker date="1530864603188" expanded="true" signature="322:3618" ph="{...}" />
+                <marker date="1530864603188" expanded="true" signature="828:1019" ph="{...}" />
+                <marker date="1530864603188" expanded="true" signature="1047:1103" ph="{...}" />
+                <marker date="1530864603188" expanded="true" signature="1141:3025" ph="{...}" />
+                <marker date="1530864603188" expanded="true" signature="1176:3015" ph="{...}" />
+                <marker date="1530864603188" expanded="true" signature="1597:2966" ph="{...}" />
+                <marker date="1530864603188" expanded="true" signature="1817:2944" ph="{...}" />
+                <marker date="1530864603188" expanded="true" signature="1872:2578" ph="/* for (int j = num ; j != netEntityViews[i].netComponent.countPlayer  ; ++j) ... */" />
+                <marker date="1530864603188" expanded="true" signature="2678:2918" ph="{...}" />
+                <marker date="1530864603188" expanded="true" signature="3133:3454" ph="{...}" />
+                <marker date="1530864603188" expanded="true" signature="3519:3612" ph="{...}" />
+                <marker date="1530864603188" expanded="true" signature="3530:3602" ph="/* num = PhotonNetwork.room.playerCount; ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NetView.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PhotonNetworkViews/NetView.cs">
+      <file leaf-file-name="ClientFactory.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ClientFactory.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainContext.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/MainContext.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="38" column="18" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConnectAndJoinRandomImplementor.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Implementers/PhotonNetworkImplementors/ConnectAndJoinRandomImplementor.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="51" column="46" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
+              <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="69" />
+              <folding>
+                <marker date="1530868574530" expanded="true" signature="6:87" ph="..." />
+                <marker date="1530868574530" expanded="true" signature="111:2573" ph="{...}" />
+                <marker date="1530868574530" expanded="true" signature="167:2571" ph="{...}" />
+                <marker date="1530868574530" expanded="true" signature="404:520" ph="{...}" />
+                <marker date="1530868574530" expanded="true" signature="600:1726" ph="{...}" />
+                <marker date="1530868574530" expanded="true" signature="1382:1491" ph="/* transform.position = spawnInfo.position; ... */" />
+                <marker date="1530868574530" expanded="true" signature="1815:2564" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,51 +83,160 @@
       <file leaf-file-name="PlayerAnimationEngine.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerAnimationEngine.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-45">
-              <caret line="19" column="96" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
+            <state relative-caret-position="296">
+              <caret line="54" selection-start-line="53" selection-end-line="54" />
+              <folding>
+                <marker date="1530867193618" expanded="false" signature="6:87" ph="..." />
+                <marker date="1530867193618" expanded="true" signature="118:2292" ph="{...}" />
+                <marker date="1530867193618" expanded="true" signature="223:2290" ph="{...}" />
+                <marker date="1530867193618" expanded="true" signature="309:363" ph="{...}" />
+                <marker date="1530867193618" expanded="true" signature="411:723" ph="{...}" />
+                <marker date="1530867193618" expanded="true" signature="766:1633" ph="{...}" />
+                <marker date="1530867193618" expanded="true" signature="843:921" ph="{...}" />
+                <marker date="1530867193618" expanded="true" signature="1190:1623" ph="{...}" />
+                <marker date="1530867193618" expanded="true" signature="1666:2016" ph="{...}" />
+                <marker date="1530867193618" expanded="true" signature="2094:2105" ph="{...}" />
+                <marker date="1530867193618" expanded="true" signature="2178:2231" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerMovementImplementor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Implementers/PlayerImplementors/PlayerMovementImplementor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-514">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding>
+                <marker date="1530868315292" expanded="false" signature="7:41" ph="..." />
+                <marker date="1530868315292" expanded="true" signature="72:2271" ph="{...}" />
+                <marker date="1530868315292" expanded="true" signature="324:2269" ph="{...}" />
+                <marker date="1530868315292" expanded="true" signature="1009:1068" ph="{...}" />
+                <marker date="1530868315292" expanded="true" signature="1097:1144" ph="{...}" />
+                <marker date="1530868315292" expanded="true" signature="1238:1484" ph="{...}" />
+                <marker date="1530868315292" expanded="true" signature="1641:1696" ph="{...}" />
+                <marker date="1530868315292" expanded="true" signature="1730:1807" ph="{...}" />
+                <marker date="1530868315292" expanded="true" signature="1841:1951" ph="{...}" />
+                <marker date="1530868315292" expanded="true" signature="2032:2263" ph="{...}" />
+                <marker date="1530868315292" expanded="true" signature="2076:2149" ph="{...}" />
+                <marker date="1530868315292" expanded="true" signature="2166:2253" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerViews.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PlayerEntityViews/PlayerViews.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+              <folding>
+                <marker date="1530868392147" expanded="false" signature="6:36" ph="..." />
+                <marker date="1530868392147" expanded="true" signature="67:842" ph="{...}" />
+                <marker date="1530868392147" expanded="true" signature="124:580" ph="{...}" />
+                <marker date="1530868392147" expanded="true" signature="630:689" ph="{...}" />
+                <marker date="1530868392147" expanded="true" signature="752:836" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerEntityDescriptor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityDescriptors/PlayerEntityDescriptor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding>
+                <marker date="1530864879356" expanded="true" signature="6:41" ph="..." />
+                <marker date="1530864879356" expanded="true" signature="72:209" ph="{...}" />
+                <marker date="1530864879356" expanded="true" signature="203:207" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerInfoDataStruct.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/PlayerInfoDataStruct.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+              <folding>
+                <marker date="1530865333377" expanded="true" signature="48:419" ph="{...}" />
+                <marker date="1530865333377" expanded="true" signature="108:223" ph="{...}" />
+                <marker date="1530865333377" expanded="true" signature="249:412" ph="{...}" />
+                <marker date="1530865333377" expanded="true" signature="332:406" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NetworkDataStruct.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/NetworkDataStruct.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+              <folding>
+                <marker date="1530865120710" expanded="false" signature="7:37" ph="..." />
+                <marker date="1530865120710" expanded="true" signature="65:1120" ph="{...}" />
+                <marker date="1530865120710" expanded="true" signature="116:524" ph="{...}" />
+                <marker date="1530865120710" expanded="true" signature="123:369" ph="/* public bool isJoinedRoom; ... */" />
+                <marker date="1530865120710" expanded="true" signature="526:756" ph="/* public struct PhontonData ... */" />
+                <marker date="1530865120710" expanded="true" signature="783:941" ph="{...}" />
+                <marker date="1530865120710" expanded="true" signature="880:938" ph="{...}" />
+                <marker date="1530865120710" expanded="true" signature="973:1116" ph="{...}" />
+                <marker date="1530865120710" expanded="true" signature="1069:1113" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PhotonNetworkViews/NetView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PhotonNetworkViews/NetView.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Implementers/PlayerImplementors/PlayerMovementImplementor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Implementers/PhotonNetworkImplementors/ConnectAndJoinRandomImplementor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerInputEngine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Implementers/PhotonNetworkImplementors/ConnectAndJoinRandomImplementor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerInputEngine.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/IClientFactory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/NetworkDataStruct.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerAnimationEngine.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Svelto.Tasks/Svelto.Tasks/ITaskRoutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Svelto.Tasks/Svelto.Tasks/ITaskRoutine.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Room.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ClientFactory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/PlayerInputDataStruct.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/ClientPlayerSpawnerEngine.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/LabEngine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/LabEngine.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityDescriptors/PlayerEntityDescriptor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerMovementEngine.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/PlayerInfoDataStruct.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/MainContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerMovementEngine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityDescriptors/PhotonNetDescriptorHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/PlayerInfoDataStruct.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/MainContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/OptionalExtras/Signals/Internal/SignalSubscriptionId.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PlayerEntityViews/PlayerViews.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/PlayerInputDataStruct.cs" />
-        <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/PlayerInfoDataStruct.cs" />
-        <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PlayerEntityViews/PlayerViews.cs" />
-        <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Implementers/PlayerImplementors/PlayerMovementImplementor.cs" />
-        <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityDescriptors/PlayerEntityDescriptor.cs" />
-        <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/NetworkDataStruct.cs" />
         <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/MainContext.cs" />
         <option value="$PROJECT_DIR$/Assets/Plugins/Svelto.Tasks/Svelto.Tasks/ITaskRoutine.cs" />
         <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/LabEngine.cs" />
         <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerMovementEngine.cs" />
         <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerInputEngine.cs" />
-        <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerAnimationEngine.cs" />
         <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PhotonNetworkViews/NetView.cs" />
         <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Implementers/PhotonNetworkImplementors/ConnectAndJoinRandomImplementor.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityDescriptors/PhotonNetDescriptorHolder.cs" />
         <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/ClientPlayerSpawnerEngine.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityDescriptors/PlayerEntityDescriptor.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/NetworkDataStruct.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/PlayerInfoDataStruct.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerAnimationEngine.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Implementers/PlayerImplementors/PlayerMovementImplementor.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PlayerEntityViews/PlayerViews.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyECS/Scripts/ClientFactory.cs" />
       </list>
     </option>
   </component>
@@ -162,41 +249,20 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="524" />
     <option name="y" value="107" />
     <option name="width" value="1026" />
     <option name="height" value="546" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="ChaleeShadow001 (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="ChaleeShadow001 (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="ChaleeShadow001 (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Svelto.Tasks" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
-      <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -252,6 +318,93 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ChaleeShadow001 (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ChaleeShadow001 (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ChaleeShadow001 (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MyECS" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ChaleeShadow001 (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MyECS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ChaleeShadow001 (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MyECS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ECS" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ChaleeShadow001 (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MyECS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ECS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Engines" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ChaleeShadow001 (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MyECS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ECS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Engines" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PlayerEngines" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ChaleeShadow001 (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MyECS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ECS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="EntityStructs" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ChaleeShadow001 (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MyECS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ECS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Implementers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ChaleeShadow001 (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MyECS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ECS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Implementers" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PlayerImplementors" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -288,11 +441,12 @@
       <updated>1530795630057</updated>
       <workItem from="1530795658614" duration="4320000" />
       <workItem from="1530803757918" duration="21192000" />
+      <workItem from="1530858565435" duration="10247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25512000" />
+    <option name="totallyTimeSpent" value="35759000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -304,17 +458,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32838285" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info anchor="right" id="Database" order="3" />
@@ -330,6 +485,31 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Unity" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -344,16 +524,108 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerInputEngine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="103" selection-start-line="16" selection-start-column="103" selection-end-line="16" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerMovementEngine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/LabEngine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Svelto.Tasks/Svelto.Tasks/ITaskRoutine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PhotonNetworkViews/NetView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/MainContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Implementers/PhotonNetworkImplementors/ConnectAndJoinRandomImplementor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="46" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerAnimationEngine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="96" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
+          <folding>
+            <marker date="1530867193618" expanded="false" signature="6:87" ph="..." />
+            <marker date="1530867193618" expanded="true" signature="118:2292" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="223:2290" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="309:363" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="411:723" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="766:1633" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="843:921" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="1190:1623" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="1666:2016" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="2094:2105" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="2178:2231" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/ClientPlayerSpawnerEngine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="64" column="47" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
+          <folding>
+            <marker date="1530864603188" expanded="false" signature="6:207" ph="..." />
+            <marker date="1530864603188" expanded="true" signature="238:3620" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="322:3618" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="828:1019" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1047:1103" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1141:3025" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1176:3015" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1597:2966" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1817:2944" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1872:2578" ph="/* for (int j = num ; j != netEntityViews[i].netComponent.countPlayer  ; ++j) ... */" />
+            <marker date="1530864603188" expanded="true" signature="2678:2918" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="3133:3454" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="3519:3612" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="3530:3602" ph="/* num = PhotonNetwork.room.playerCount; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PlayerEntityViews/PlayerViews.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
           <folding>
-            <marker date="1530796140443" expanded="false" signature="6:36" ph="..." />
-            <marker date="1530796140443" expanded="true" signature="67:837" ph="{...}" />
-            <marker date="1530796140443" expanded="true" signature="124:580" ph="{...}" />
-            <marker date="1530796140443" expanded="true" signature="630:684" ph="{...}" />
-            <marker date="1530796140443" expanded="true" signature="747:831" ph="{...}" />
+            <marker date="1530868392147" expanded="false" signature="6:36" ph="..." />
+            <marker date="1530868392147" expanded="true" signature="67:842" ph="{...}" />
+            <marker date="1530868392147" expanded="true" signature="124:580" ph="{...}" />
+            <marker date="1530868392147" expanded="true" signature="630:689" ph="{...}" />
+            <marker date="1530868392147" expanded="true" signature="752:836" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -380,12 +652,15 @@
         <state relative-caret-position="270">
           <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding>
-            <marker date="1530798026766" expanded="false" signature="7:37" ph="..." />
-            <marker date="1530798026766" expanded="true" signature="116:470" ph="{...}" />
-            <marker date="1530798026766" expanded="true" signature="123:369" ph="/* public bool isJoinedRoom; ... */" />
-            <marker date="1530798026766" expanded="true" signature="472:702" ph="/* public struct PhontonData ... */" />
-            <marker date="1530798026766" expanded="true" signature="734:877" ph="{...}" />
-            <marker date="1530798026766" expanded="true" signature="830:874" ph="{...}" />
+            <marker date="1530865120710" expanded="false" signature="7:37" ph="..." />
+            <marker date="1530865120710" expanded="true" signature="65:1120" ph="{...}" />
+            <marker date="1530865120710" expanded="true" signature="116:524" ph="{...}" />
+            <marker date="1530865120710" expanded="true" signature="123:369" ph="/* public bool isJoinedRoom; ... */" />
+            <marker date="1530865120710" expanded="true" signature="526:756" ph="/* public struct PhontonData ... */" />
+            <marker date="1530865120710" expanded="true" signature="783:941" ph="{...}" />
+            <marker date="1530865120710" expanded="true" signature="880:938" ph="{...}" />
+            <marker date="1530865120710" expanded="true" signature="973:1116" ph="{...}" />
+            <marker date="1530865120710" expanded="true" signature="1069:1113" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -396,19 +671,14 @@
           <caret line="5" column="55" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="55" />
           <folding>
             <marker date="1530670322373" expanded="false" signature="6:36" ph="..." />
+            <marker date="1530670322373" expanded="true" signature="67:217" ph="{...}" />
             <marker date="1530670322373" expanded="true" signature="125:215" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/IClientFactory.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1530670322348" expanded="true" signature="67:236" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/PlayerInfoDataStruct.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -422,9 +692,9 @@
         <state relative-caret-position="90">
           <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
           <folding>
-            <marker date="1530796664969" expanded="false" signature="6:56" ph="..." />
-            <marker date="1530796664969" expanded="true" signature="87:202" ph="{...}" />
-            <marker date="1530796664969" expanded="true" signature="196:200" ph="{...}" />
+            <marker date="1530864879356" expanded="true" signature="6:41" ph="..." />
+            <marker date="1530864879356" expanded="true" signature="72:209" ph="{...}" />
+            <marker date="1530864879356" expanded="true" signature="203:207" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -434,123 +704,51 @@
         <state relative-caret-position="885">
           <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
           <folding>
-            <marker date="1530827236023" expanded="false" signature="6:207" ph="..." />
-            <marker date="1530827236023" expanded="true" signature="238:3728" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="322:3726" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="828:1019" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="1047:1103" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="1141:3151" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="1176:3141" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="1675:3092" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="1895:3070" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="1950:2668" ph="/* for (int j = num ; j != netEntityViews[i].netComponent.countPlayer  ; ++j) ... */" />
-            <marker date="1530827236023" expanded="true" signature="2768:3044" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="3241:3562" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="3627:3720" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="3638:3710" ph="/* num = PhotonNetwork.room.playerCount; ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/PlayerInfoDataStruct.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PlayerEntityViews/PlayerViews.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-          <folding>
-            <marker date="1530796140443" expanded="false" signature="6:36" ph="..." />
-            <marker date="1530796140443" expanded="true" signature="67:837" ph="{...}" />
-            <marker date="1530796140443" expanded="true" signature="124:580" ph="{...}" />
-            <marker date="1530796140443" expanded="true" signature="630:684" ph="{...}" />
-            <marker date="1530796140443" expanded="true" signature="747:831" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityDescriptors/PlayerEntityDescriptor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <marker date="1530796664969" expanded="false" signature="6:56" ph="..." />
-            <marker date="1530796664969" expanded="true" signature="87:202" ph="{...}" />
-            <marker date="1530796664969" expanded="true" signature="196:200" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/PlayerInputDataStruct.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="55" />
-          <folding>
-            <marker date="1530670322373" expanded="false" signature="6:36" ph="..." />
-            <marker date="1530670322373" expanded="true" signature="125:215" ph="{...}" />
+            <marker date="1530864603188" expanded="false" signature="6:207" ph="..." />
+            <marker date="1530864603188" expanded="true" signature="238:3620" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="322:3618" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="828:1019" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1047:1103" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1141:3025" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1176:3015" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1597:2966" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1817:2944" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1872:2578" ph="/* for (int j = num ; j != netEntityViews[i].netComponent.countPlayer  ; ++j) ... */" />
+            <marker date="1530864603188" expanded="true" signature="2678:2918" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="3133:3454" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="3519:3612" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="3530:3602" ph="/* num = PhotonNetwork.room.playerCount; ... */" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/IClientFactory.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1530670322348" expanded="true" signature="67:236" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/NetworkDataStruct.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-          <folding>
-            <marker date="1530798026766" expanded="false" signature="7:37" ph="..." />
-            <marker date="1530798026766" expanded="true" signature="116:470" ph="{...}" />
-            <marker date="1530798026766" expanded="true" signature="123:369" ph="/* public bool isJoinedRoom; ... */" />
-            <marker date="1530798026766" expanded="true" signature="472:702" ph="/* public struct PhontonData ... */" />
-            <marker date="1530798026766" expanded="true" signature="734:877" ph="{...}" />
-            <marker date="1530798026766" expanded="true" signature="830:874" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Implementers/PlayerImplementors/PlayerMovementImplementor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="62" column="42" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerMovementEngine.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="285">
           <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="93" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/LabEngine.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
+        <state relative-caret-position="465">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerInputEngine.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="240">
           <caret line="16" column="103" selection-start-line="16" selection-start-column="103" selection-end-line="16" selection-end-column="103" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Plugins/Svelto.Tasks/Svelto.Tasks/ITaskRoutine.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
+        <state relative-caret-position="465">
           <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
         </state>
       </provider>
@@ -559,125 +757,211 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
           <caret line="418" column="19" selection-start-line="418" selection-start-column="19" selection-end-line="418" selection-end-column="19" />
-          <folding>
-            <marker date="1530670327837" expanded="true" signature="0:455" ph="/*   Represents a room/game on the server and caches the properties of that. ... */" />
-            <marker date="1530670327837" expanded="false" signature="463:520" ph="..." />
-            <marker date="1530670327837" expanded="true" signature="523:739" ph="/// This class resembles a room that PUN joins (or joined). ... " />
-            <marker date="1530670327837" expanded="true" signature="768:17065" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="906:1063" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="924:979" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="1001:1057" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="1069:1502" ph="/// Defines if the room can be joined. ... " />
-            <marker date="1530670327837" expanded="true" signature="1529:2111" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="1547:1602" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="1615:2105" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="1675:1790" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="1862:2058" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="2117:2329" ph="/// Defines if the room is listed in its lobby. ... " />
-            <marker date="1530670327837" expanded="true" signature="2359:2956" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="2377:2435" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="2448:2950" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="2508:2626" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="2701:2900" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="2962:3086" ph="/// A list of custom properties that should be forwarded to the lobby and listed there. ... " />
-            <marker date="1530670327837" expanded="true" signature="3158:3314" ph="/// Gets if this room uses autoCleanUp to remove all (buffered) RPCs and instantiated GameObjects when a player l ... " />
-            <marker date="1530670327837" expanded="true" signature="3342:3428" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="3360:3422" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="3434:3638" ph="/// Sets a limit of players to this room. This property is shown in lobby, too. ... " />
-            <marker date="1530670327837" expanded="true" signature="3668:4498" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="3686:3752" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="3765:4492" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="3825:3946" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="3976:4149" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="4227:4433" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="4588:4837" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="4606:4831" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="4666:4750" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="4767:4821" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="4843:5269" ph="/// List of users who are expected to join this room. In matchmaking, Photon blocks a slot for each of these User ... " />
-            <marker date="1530670327837" expanded="true" signature="5303:5363" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="5569:6071" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="5631:6065" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="5691:5808" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="5885:6013" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="6297:6814" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="6362:6808" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="6422:6542" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="6622:6753" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="6820:6971" ph="///The ID (actorNumber) of the current Master Client of this room. ... " />
-            <marker date="1530670327837" expanded="true" signature="7013:7180" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="7031:7096" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="7108:7174" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="7261:7760" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="7296:7357" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="7767:10676" ph="/// Updates the current room's Custom Properties with new/updated key-values. ... " />
-            <marker date="1530670327837" expanded="true" signature="10797:11903" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="10840:10880" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="11234:11451" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="11492:11710" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="11759:11897" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="11909:12330" ph="/// Enables you to define the properties available in the lobby if not all properties are needed to pick a room. ... " />
-            <marker date="1530670327837" expanded="true" signature="12402:12719" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="12725:13284" ph="/// Attempts to remove all current expected users from the server's Slot Reservation list. ... " />
-            <marker date="1530670327837" expanded="true" signature="13321:13650" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="13656:14280" ph="/// Attempts to set the current expected users list. ... " />
-            <marker date="1530670327837" expanded="true" signature="14337:14666" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="14673:14804" ph="///Returns a summary of this Room instance as string. ... " />
-            <marker date="1530670327837" expanded="true" signature="14842:15058" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="15064:15231" ph="///Returns a summary of this Room instance as longer string, including Custom Properties. ... " />
-            <marker date="1530670327837" expanded="true" signature="15268:15540" ph="{...}" />
-            <marker date="1530670327837" expanded="true" signature="15547:17063" ph="Obsoleted variable names" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Implementers/PhotonNetworkImplementors/ConnectAndJoinRandomImplementor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="765">
           <caret line="51" column="46" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerAnimationEngine.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="19" column="96" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PhotonNetworkViews/NetView.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="360">
           <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/MainContext.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="570">
           <caret line="38" column="18" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/OptionalExtras/Signals/Internal/SignalSubscriptionId.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <marker date="1529314985000" expanded="false" signature="6:31" ph="..." />
+            <marker date="1529314985000" expanded="true" signature="50:1633" ph="{...}" />
+            <marker date="1529314985000" expanded="true" signature="171:1631" ph="{...}" />
+            <marker date="1529314985000" expanded="true" signature="247:337" ph="{...}" />
+            <marker date="1529314985000" expanded="true" signature="369:419" ph="{...}" />
+            <marker date="1529314985000" expanded="true" signature="451:501" ph="{...}" />
+            <marker date="1529314985000" expanded="true" signature="544:825" ph="{...}" />
+            <marker date="1529314985000" expanded="true" signature="607:815" ph="{...}" />
+            <marker date="1529314985000" expanded="true" signature="875:1108" ph="{...}" />
+            <marker date="1529314985000" expanded="true" signature="931:1023" ph="{...}" />
+            <marker date="1529314985000" expanded="true" signature="1040:1098" ph="{...}" />
+            <marker date="1529314985000" expanded="true" signature="1163:1314" ph="{...}" />
+            <marker date="1529314985000" expanded="true" signature="1410:1469" ph="{...}" />
+            <marker date="1529314985000" expanded="true" signature="1565:1625" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityDescriptors/PhotonNetDescriptorHolder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="84" selection-start-line="8" selection-start-column="84" selection-end-line="8" selection-end-column="84" />
+          <folding>
+            <marker date="1530863030008" expanded="false" signature="6:123" ph="..." />
+            <marker date="1530863030008" expanded="true" signature="151:399" ph="{...}" />
+            <marker date="1530863030008" expanded="true" signature="253:260" ph="{...}" />
+            <marker date="1530863030008" expanded="true" signature="388:397" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityDescriptors/PlayerEntityDescriptor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding>
+            <marker date="1530864879356" expanded="true" signature="6:41" ph="..." />
+            <marker date="1530864879356" expanded="true" signature="72:209" ph="{...}" />
+            <marker date="1530864879356" expanded="true" signature="203:207" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/NetworkDataStruct.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+          <folding>
+            <marker date="1530865120710" expanded="false" signature="7:37" ph="..." />
+            <marker date="1530865120710" expanded="true" signature="65:1120" ph="{...}" />
+            <marker date="1530865120710" expanded="true" signature="116:524" ph="{...}" />
+            <marker date="1530865120710" expanded="true" signature="123:369" ph="/* public bool isJoinedRoom; ... */" />
+            <marker date="1530865120710" expanded="true" signature="526:756" ph="/* public struct PhontonData ... */" />
+            <marker date="1530865120710" expanded="true" signature="783:941" ph="{...}" />
+            <marker date="1530865120710" expanded="true" signature="880:938" ph="{...}" />
+            <marker date="1530865120710" expanded="true" signature="973:1116" ph="{...}" />
+            <marker date="1530865120710" expanded="true" signature="1069:1113" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/PlayerInputDataStruct.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1530670322373" expanded="false" signature="6:36" ph="..." />
+            <marker date="1530670322373" expanded="true" signature="67:217" ph="{...}" />
+            <marker date="1530670322373" expanded="true" signature="125:215" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityStructs/PlayerInfoDataStruct.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <marker date="1530865333377" expanded="true" signature="48:419" ph="{...}" />
+            <marker date="1530865333377" expanded="true" signature="108:223" ph="{...}" />
+            <marker date="1530865333377" expanded="true" signature="249:412" ph="{...}" />
+            <marker date="1530865333377" expanded="true" signature="332:406" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/PlayerAnimationEngine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="54" selection-start-line="53" selection-end-line="54" />
+          <folding>
+            <marker date="1530867193618" expanded="false" signature="6:87" ph="..." />
+            <marker date="1530867193618" expanded="true" signature="118:2292" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="223:2290" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="309:363" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="411:723" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="766:1633" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="843:921" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="1190:1623" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="1666:2016" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="2094:2105" ph="{...}" />
+            <marker date="1530867193618" expanded="true" signature="2178:2231" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/EntityViews/PlayerEntityViews/PlayerViews.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <marker date="1530868392147" expanded="false" signature="6:36" ph="..." />
+            <marker date="1530868392147" expanded="true" signature="67:842" ph="{...}" />
+            <marker date="1530868392147" expanded="true" signature="124:580" ph="{...}" />
+            <marker date="1530868392147" expanded="true" signature="630:689" ph="{...}" />
+            <marker date="1530868392147" expanded="true" signature="752:836" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Implementers/PlayerImplementors/PlayerMovementImplementor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-514">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <marker date="1530868315292" expanded="false" signature="7:41" ph="..." />
+            <marker date="1530868315292" expanded="true" signature="72:2271" ph="{...}" />
+            <marker date="1530868315292" expanded="true" signature="324:2269" ph="{...}" />
+            <marker date="1530868315292" expanded="true" signature="1009:1068" ph="{...}" />
+            <marker date="1530868315292" expanded="true" signature="1097:1144" ph="{...}" />
+            <marker date="1530868315292" expanded="true" signature="1238:1484" ph="{...}" />
+            <marker date="1530868315292" expanded="true" signature="1641:1696" ph="{...}" />
+            <marker date="1530868315292" expanded="true" signature="1730:1807" ph="{...}" />
+            <marker date="1530868315292" expanded="true" signature="1841:1951" ph="{...}" />
+            <marker date="1530868315292" expanded="true" signature="2032:2263" ph="{...}" />
+            <marker date="1530868315292" expanded="true" signature="2076:2149" ph="{...}" />
+            <marker date="1530868315292" expanded="true" signature="2166:2253" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ECS/Engines/PlayerEngines/ClientPlayerSpawnerEngine.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="64" column="47" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
+        <state>
+          <caret line="53" column="75" selection-start-line="53" selection-start-column="75" selection-end-line="53" selection-end-column="75" />
           <folding>
-            <marker date="1530827236023" expanded="false" signature="6:207" ph="..." />
-            <marker date="1530827236023" expanded="true" signature="238:3728" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="322:3726" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="828:1019" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="1047:1103" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="1141:3151" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="1176:3141" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="1675:3092" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="1895:3070" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="1950:2668" ph="/* for (int j = num ; j != netEntityViews[i].netComponent.countPlayer  ; ++j) ... */" />
-            <marker date="1530827236023" expanded="true" signature="2768:3044" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="3241:3562" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="3627:3720" ph="{...}" />
-            <marker date="1530827236023" expanded="true" signature="3638:3710" ph="/* num = PhotonNetwork.room.playerCount; ... */" />
+            <marker date="1530864603188" expanded="false" signature="6:207" ph="..." />
+            <marker date="1530864603188" expanded="true" signature="238:3620" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="322:3618" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="828:1019" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1047:1103" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1141:3025" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1176:3015" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1597:2966" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1817:2944" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="1872:2578" ph="/* for (int j = num ; j != netEntityViews[i].netComponent.countPlayer  ; ++j) ... */" />
+            <marker date="1530864603188" expanded="true" signature="2678:2918" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="3133:3454" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="3519:3612" ph="{...}" />
+            <marker date="1530864603188" expanded="true" signature="3530:3602" ph="/* num = PhotonNetwork.room.playerCount; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyECS/Scripts/ClientFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="69" />
+          <folding>
+            <marker date="1530868574530" expanded="true" signature="6:87" ph="..." />
+            <marker date="1530868574530" expanded="true" signature="111:2573" ph="{...}" />
+            <marker date="1530868574530" expanded="true" signature="167:2571" ph="{...}" />
+            <marker date="1530868574530" expanded="true" signature="404:520" ph="{...}" />
+            <marker date="1530868574530" expanded="true" signature="600:1726" ph="{...}" />
+            <marker date="1530868574530" expanded="true" signature="1382:1491" ph="/* transform.position = spawnInfo.position; ... */" />
+            <marker date="1530868574530" expanded="true" signature="1815:2564" ph="{...}" />
           </folding>
         </state>
       </provider>

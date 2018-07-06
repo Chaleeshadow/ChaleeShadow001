@@ -312,18 +312,6 @@
       <Project>{BF4E52B8-6C93-8069-B7B5-D79C3870E09C}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
-    <ProjectReference Include="Svelto.Tasks.csproj">
-      <Project>{8D46496E-DFE7-6DD2-74B7-937D2B66EE14}</Project>
-      <Name>Svelto.Tasks</Name>
-    </ProjectReference>
-    <ProjectReference Include="Svelto.Tasks.StopEditorThread.csproj">
-      <Project>{C9D834A5-13FA-32ED-A324-EC7025DAD518}</Project>
-      <Name>Svelto.Tasks.StopEditorThread</Name>
-    </ProjectReference>
-    <ProjectReference Include="Svelto.ECS.csproj">
-      <Project>{C7412823-EBFE-E73B-5B3E-C0492C991B61}</Project>
-      <Name>Svelto.ECS</Name>
-    </ProjectReference>
     <ProjectReference Include="Svelto.Pool.Debugger.csproj">
       <Project>{E2ED9877-0664-0C5C-1AF9-252A89A0CCA3}</Project>
       <Name>Svelto.Pool.Debugger</Name>
@@ -336,9 +324,21 @@
       <Project>{9FE816A6-3F61-12BA-34D6-BB676F40D7F8}</Project>
       <Name>Svelto.ECS.Profiler</Name>
     </ProjectReference>
+    <ProjectReference Include="Svelto.Tasks.csproj">
+      <Project>{8D46496E-DFE7-6DD2-74B7-937D2B66EE14}</Project>
+      <Name>Svelto.Tasks</Name>
+    </ProjectReference>
     <ProjectReference Include="Svelto.Common.csproj">
       <Project>{7D359901-EECC-24C0-B5B7-0C15D47FC1E9}</Project>
       <Name>Svelto.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="Svelto.Tasks.StopEditorThread.csproj">
+      <Project>{C9D834A5-13FA-32ED-A324-EC7025DAD518}</Project>
+      <Name>Svelto.Tasks.StopEditorThread</Name>
+    </ProjectReference>
+    <ProjectReference Include="Svelto.ECS.csproj">
+      <Project>{C7412823-EBFE-E73B-5B3E-C0492C991B61}</Project>
+      <Name>Svelto.ECS</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

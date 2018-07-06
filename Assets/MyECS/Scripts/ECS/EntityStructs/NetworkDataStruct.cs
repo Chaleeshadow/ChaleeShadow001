@@ -17,6 +17,8 @@ namespace ProjectR.ECS.Net
 //		public PhontonData phData;
 		public GameObjectData gameData;
 //		public string playerName;
+		public int testnum;
+		public PlayerInfo playerInfo;
 		public EGID    ID { get; set; }
 	}
 
@@ -31,6 +33,18 @@ namespace ProjectR.ECS.Net
 //			this.view = view;
 //		}
 //	}
+
+	public struct PlayerInfo
+	{
+		public EGID ID;
+		public string playerName;
+
+		public PlayerInfo(EGID ID,string playerName)
+		{
+			this.ID = ID;
+			this.playerName = playerName;
+		}
+	}
 	
 	public struct GameObjectData
 	{

@@ -63,5 +63,17 @@ namespace ProjectR.ECS.Player
             get { return _playerName.text;}
             set { _playerName.text = value; }
         }
+
+        void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
+        {
+            if (stream.isWriting)
+            {
+                stream.SendNext(playerName);
+            }
+            else
+            {
+                playerName = (string)stream.ReceiveNext();
+            }
+        }
     }
 }

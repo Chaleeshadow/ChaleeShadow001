@@ -17,7 +17,7 @@ namespace ProjectR.ECS.Player
 
     public interface IInfoComponent : IComponent
     {
-        string    playerName { set; }    
+        string    playerName { get; set; }    
     }
     
     public interface INetPhotonViewComponent : IComponent

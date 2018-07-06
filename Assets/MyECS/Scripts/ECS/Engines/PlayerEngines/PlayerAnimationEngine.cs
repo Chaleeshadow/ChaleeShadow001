@@ -30,11 +30,12 @@ namespace ProjectR.ECS.Player
             int targetsCount;
             var playerEntityViews = entitiesDB.QueryEntities<PlayerEntityView>(out targetsCount);
             var playerInputDatas = entitiesDB.QueryEntities<PlayerInputDataStruct>(out targetsCount);
-            var netDatas = entitiesDB.QueryEntities<NetworkDataStruct>(out targetsCount);
+            
             while (true)
             {
-//                playerEntityViews[0].infoComponent.playerName = netDatas[0].playerName;
+
 //                playerEntityViews[0].infoComponent.playerName = PhotonNetwork.playerName;
+                UpdatePlayerName();
                 var input = playerInputDatas[0].input;
                 
                 bool walking = input.x != 0f || input.z != 0f;
@@ -43,8 +44,16 @@ namespace ProjectR.ECS.Player
 
                 yield return null;
             }
-        }        
+        }
 
+        void UpdatePlayerName()
+        {
+            int targetsCount;
+            var playerEntityViews = entitiesDB.QueryEntities<PlayerEntityView>(out targetsCount);
+            var playerInfoDatas = entitiesDB.QueryEntities<PlayerInfoDataStruct>(out targetsCount);
+            playerEntityViews[0].infoComponent.playerName = playerInfoDatas[0].playerInfo.playerName;
+        }
+        
         protected override void Add(ref PlayerEntityView entityView)
         {}
 

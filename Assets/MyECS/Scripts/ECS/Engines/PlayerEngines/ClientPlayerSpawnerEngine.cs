@@ -36,8 +36,7 @@ namespace ProjectR.ECS.Player
             {
                 yield return _waitForSecondsEnumerator;{
                     var clientPlayersSpawn = ReadClientPlayerspawningDataServiceRequest();
-                    int targetsCount;                     
-                    var netDatas = entitiesDB.QueryEntities<NetworkDataStruct>(out targetsCount);
+                    int targetsCount;                                         
                     var netEntityViews = entitiesDB.QueryEntities<NetEntityView>(out targetsCount);
                     
                     for (int i = 0; i < targetsCount; i++)
@@ -47,21 +46,18 @@ namespace ProjectR.ECS.Player
                         if (netEntityViews[i].netComponent.isJoinedRoom)
                         {                            
 //                            for (int j = num ; j != netEntityViews[i].netComponent.countPlayer  ; ++j)
-//                            {                     
-//                                
+//                            {                                                  
 //                                _clientFactory.Build(clientPlayersSpawn[0].clientPlayerSawnData);
 ////                            netDatas[j].playerName = PhotonNetwork.playerName;
 //                                Utility.Console.Log("Build " + PhotonNetwork.playerName);
 ////                                namecheck = PhotonNetwork.playerName;
 //                                Utility.Console.Log("user: " + PhotonNetwork.room.playerCount);
 //                                num++;
-//
-//
 //                            }
                             for (int j = num; j >= 0 && num >= PhotonNetwork.room.playerCount; --j)
                             {
                                 _clientFactory.Build(clientPlayersSpawn[0].clientPlayerSawnData);
-                                Utility.Console.Log(num.ToString());
+                                
                                 num = num - num;
                             }
                         }
@@ -72,6 +68,8 @@ namespace ProjectR.ECS.Player
         }
 
 
+        
+        
         static JSonClientPlayerSpawnData[] ReadClientPlayerspawningDataServiceRequest()
         {
             string json =

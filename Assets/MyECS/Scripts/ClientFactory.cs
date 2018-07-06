@@ -29,7 +29,12 @@ namespace ProjectR.ECS
             var spawnInfo = clientPlayerSpawnData.spawnPoints[spawnPointIndex];
 
 //            transform.position = spawnInfo.position;
-            transform.rotation = spawnInfo.rotation;
+//            transform.rotation = spawnInfo.rotation;
+            
+            var playerProfile = new Profile (PhotonNetwork.playerName);
+            var playerInfo = new PlayerInfoDataStruct { playerInfo = playerProfile};
+            
+            initializer.Init(playerInfo);
         }
         
         public void Build(ClientPlayerSpawnData clientPlayerSpawnData, int id1)
